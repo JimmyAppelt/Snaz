@@ -17,7 +17,8 @@
 >Chrono Up : Count up from value  
 >Text line Changer Extended  
 >Amount of current Twitch viewers  
->System Info: Capture and stream data real time like cpu usage, ram, processes, up- and download speed  
+>System Info: Capture and stream data real time like cpu usage, ram, processes, up- and download speed
+>Spotify (Playing now) with song, artist, track length, album, album image
 
 **Time Output format info:**  
 >Example $hh $mm $ss will go live as: 1h 25m 12s  

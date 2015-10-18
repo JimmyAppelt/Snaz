@@ -11,13 +11,18 @@
 
 **Is able to stream the next:**  
 >System time  
->System date  
->Countdown to specified time (Stream a time countdown live. Ex. Stream live in: 0h 30m 12s)  
+>System date
+>Countdown to specified time (Stream a time countdown live. Ex. Stream live in: 0h 30m 12s)
+
 >Chrono Down : Countdown from value  
->Chrono Up : Count up from value  
->Text line Changer Extended  
->Amount of current Twitch viewers  
+>Chrono Up : Count up from value
+
+>Text line Changer Extended
+
+>Amount of current Twitch viewers
+
 >System Info: Capture and stream data real time like cpu usage, ram, processes, up- and download speed
+
 >Spotify (Playing now) with song, artist, track length, album, album image
 
 **Time Output format info:**  

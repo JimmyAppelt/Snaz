@@ -39,5 +39,5 @@
 >$h:$m:$s > 05:22:23  
 
 Customize formats to your needs :), these are just examples.  
-Please note that u only can see AM/PM behind the time when your "system" is using the AM/PM format.  
+  
 The textfiles will be stored in the subfolder TextFiles in the apps folder.  

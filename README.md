@@ -23,7 +23,7 @@
 
 >System Info: Capture and stream data real time like cpu usage, ram, processes, up- and download speed
 
->Spotify (Playing now) with song, artist, track length, album, album image
+>Playing now with song, artist album, album image (Currenlty supported: Spotify, Foobar2000)
 
 **Time Output format info:**  
 >Example $hh $mm $ss will go live as: 1h 25m 12s  

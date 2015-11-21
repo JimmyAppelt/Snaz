@@ -21,7 +21,9 @@
 
 >Amount of current Twitch viewers
 
->System Info: Capture and stream data real time like cpu usage, ram, processes, up- and download speed
+>System Info: capture and stream data real time like cpu usage, ram, processes, up- and download speed
+
+>Dynamic Files: create a textfile by choice and link it to any online source
 
 >Playing now with song, artist album, album image (Currenlty supported: Spotify, Foobar2000)
 

@@ -1,3 +1,5 @@
+Latest version 1.12.0.1
+
 # Snaz
 >Project: http://jimmyappelt.be/preview/snaz  
 >Changelog: http://jimmyappelt.be/Downloads/Software/Snaz/releasenotes.txt  

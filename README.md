@@ -15,7 +15,6 @@ Latest version 1.12.1.0
 >System time  
 >System date
 >Countdown to specified time (Stream a time countdown live. Ex. Stream live in: 0h 30m 12s)
-
 >Chrono Down : Countdown from value  
 >Chrono Up : Count up from value
 
@@ -27,7 +26,7 @@ Latest version 1.12.1.0
 
 >Dynamic Files: create a textfile by choice and link it to any online source
 
->Playing now with song, artist album, album image (Currenlty supported: Spotify, Foobar2000)
+>Playing now with song, artist album, album image (Currenlty supported: Spotify, Foobar2000 and winamp)
 
 **Time Output format info:**  
 >Example $hh $mm $ss will go live as: 1h 25m 12s  

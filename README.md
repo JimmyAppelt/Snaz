@@ -24,7 +24,7 @@ Latest version 1.12.2.0
 * Playing now with song, artist album, album image (Currenlty supported: Spotify, Foobar2000 and winamp)
 
 
-## __Formatting examples__
+# Formatting examples
 #### Time Output format info:
 ```
 > Example $hh $mm $ss will go live as: 1h 25m 12s  

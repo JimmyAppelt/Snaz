@@ -17,7 +17,7 @@ Latest version 1.12.2.0
 * Chrono Down : Countdown from value  
 * Chrono Up : Count up from value
 * Text line Changer
-* Update Game/Status on Twitch *(with smart game and status listst)*
+* Update Game/Status on Twitch *(with smart game and status lists)*
 * Amount of current Twitch viewers
 * System Info: capture and stream data real time like cpu usage, ram, processes, up- and download speed
 * Dynamic Files: create a textfile or imagefile by choice and link it to any online source

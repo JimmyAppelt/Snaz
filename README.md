@@ -1,4 +1,4 @@
-Latest version 1.12.2.0
+Latest version 1.12.2.1
 
 # Snaz
 >Project: http://jimmyappelt.be/preview/snaz  

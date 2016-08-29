@@ -1,6 +1,7 @@
 Latest version 1.12.2.1
 
 # Snaz
+>Wiki: https://github.com/JimmyAppelt/Snaz/wiki
 >Project: http://jimmyappelt.be/preview/snaz  
 >Changelog: http://jimmyappelt.be/Downloads/Software/Snaz/releasenotes.txt  
 

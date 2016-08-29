@@ -23,6 +23,7 @@ Latest version 1.12.2.1
 * Dynamic Files: create a textfile or imagefile by choice and link it to any online source
 * Playing now with song, artist album, album image (Currenlty supported: Spotify, Foobar2000 and winamp)
 
+Check the wiki for more detailed information https://github.com/JimmyAppelt/Snaz/wiki
 
 # Formatting examples
 #### Time Output format info:

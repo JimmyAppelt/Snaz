@@ -1,4 +1,6 @@
-Latest version 1.12.2.1
+# Latest version 1.12.2.1 
+
+![Discord](https://discordapp.com/api/guilds/116201059881320450/widget.png)
 
 # Snaz
 >Wiki: https://github.com/JimmyAppelt/Snaz/wiki  

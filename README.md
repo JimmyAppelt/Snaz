@@ -14,7 +14,7 @@
 
 ## Overview
 
-Date format | Outputs
+Module | Short description
 ------------ | -------------
 Time | system time
 Date | system date

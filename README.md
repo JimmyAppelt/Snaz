@@ -22,7 +22,7 @@ Countdown | countdown to specified time *(Live countdown. Ex. Stream live in: 0h
 Chrono Down | countdown from value
 Chrono Up | count up from value
 Text line changer | changes textlines to a single file
-Twitch | coes some twitch stuff *(most knows for Amount of current Twitch viewers)*
+Twitch | does twitch stuff *(most knows for Amount of current Twitch viewers)*
 System Info | capture and stream data real time like cpu usage, ram, processes, up- and download speed
 Dynamic Files | create a textfile or imagefile by choice and link it to any online source
 Playing Now | song, artist album, album image (Currently supported: Spotify, Foobar2000 and winamp)

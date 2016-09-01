@@ -28,4 +28,4 @@ Dynamic Files | create a textfile or imagefile by choice and link it to any onli
 Playing Now | song, artist album, album image (Currently supported: Spotify, Foobar2000 and winamp)
 
 
-Check the [documentation](https://github.com/JimmyAppelt/Snaz/wiki) for more detailed information
+> Check the [documentation](https://github.com/JimmyAppelt/Snaz/wiki) for more detailed information

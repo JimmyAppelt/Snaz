@@ -25,7 +25,7 @@ Text line changer | changes textlines to a single file
 Twitch | does twitch stuff *(most knows for Amount of current Twitch viewers)*
 System Info | capture and stream data real time like cpu usage, ram, processes, up- and download speed
 Dynamic Files | create a textfile or imagefile by choice and link it to any online source
-Playing Now | song, artist album, album image (Currently supported: Spotify, Foobar2000 and winamp)
+Playing Now | song, artist album, album image (Currently supported: Spotify, Foobar2000, winamp, iTunes and VLC mediaplayer)
 
 
 > Check the [documentation](https://github.com/JimmyAppelt/Snaz/wiki) for more detailed information

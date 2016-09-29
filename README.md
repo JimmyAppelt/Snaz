@@ -29,3 +29,5 @@ Playing Now | song, artist album, album image (Spotify, Foobar2000, winamp, iTun
 
 
 > Check the [documentation](https://github.com/JimmyAppelt/Snaz/wiki) for more detailed information
+
+![sample-image](https://i.gyazo.com/bc6eabd25e54191c1712d43c578e43a6.png)

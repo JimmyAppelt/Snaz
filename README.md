@@ -1,4 +1,4 @@
-# Latest version 1.12.5.1
+# Latest version 1.12.5.2
 
 [![Discord](https://discordapp.com/api/guilds/116201059881320450/widget.png)](https://discord.gg/0eF2eErsMKGivZos)
 

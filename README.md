@@ -4,6 +4,8 @@
 
 ## Snaz
 
+**Note: REQUESTS ARE CLOSED**
+
 - [Wiki](https://github.com/JimmyAppelt/Snaz/wiki )
 - [Project](http://jimmyappelt.be/preview/snaz)
 - [Changelog](http://jimmyappelt.be/Downloads/Software/Snaz/releasenotes.txt)

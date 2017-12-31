@@ -1,5 +1,3 @@
-# **Note: REQUESTS ARE CLOSED**
-
 # Latest version 1.12.6.0
 
 ## Snaz

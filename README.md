@@ -1,4 +1,4 @@
-# Latest version 1.12.7.0
+# Latest version 1.12.7.0 (will be deployed soon, current live version is still 1.12.6.0)
 
 **Playing now and twitch functionality is removed is 1.12.7.0 !!**, due the end of Snaz development cicle. To give Snaz more survivability as standalone program without any external program to be able to break Snaz without maintenance.
 

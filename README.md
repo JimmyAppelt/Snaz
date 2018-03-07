@@ -1,6 +1,6 @@
-# Latest version 1.12.7.0 (will be deployed soon, current live version is still 1.12.6.0)
+# Latest version 1.12.7.0
 
-**Playing now and twitch functionality is removed is 1.12.7.0 !!**, due the end of Snaz development cicle. To give Snaz more survivability as standalone program without any external program to be able to break Snaz without maintenance.
+**Playing now and twitch functionality is removed in 1.12.7.0 !!** due to the end of Snaz development cycle. To give Snaz more survivability as a standalone program without any external program to be able to break Snaz without maintenance.
 
 If you would like to keep twitch and playing now, download 1.12.6.0 on the release page or don't update to 1.12.7.0 as long as both features keep working.
 

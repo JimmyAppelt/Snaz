@@ -26,7 +26,7 @@ Textline changer | changes textlines to a single file
 System Info | capture and stream data real time like cpu usage, ram, processes, up- and download speed
 Dynamic Files | create a textfile or imagefile by choice and link it to any online source
 
-
+> [!TIP]
 > Check the [documentation](https://github.com/JimmyAppelt/Snaz/wiki) for more detailed information
 
 ![sample-image](https://i.gyazo.com/985dabdbf42b9dc28ec9ac4f3bd71a6c.png)
